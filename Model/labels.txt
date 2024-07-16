@@ -1,0 +1,12 @@
+0 peace
+1 good luck
+2 again
+3 no
+4 help
+5 yes
+6 hello
+7 busy
+8 happy
+9 i
+10 you
+11 bye
