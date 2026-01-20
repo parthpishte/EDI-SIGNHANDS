@@ -1,0 +1,97 @@
+{
+  "peace": {
+    "meaning": "Expression of peace or calm",
+    "context": "daily",
+    "sentences": [
+      "Peace",
+      "I wish you peace"
+    ]
+  },
+  "good luck": {
+    "meaning": "Wishing success",
+    "context": "daily",
+    "sentences": [
+      "Good luck",
+      "All the best"
+    ]
+  },
+  "again": {
+    "meaning": "Request to repeat an action",
+    "context": "daily",
+    "sentences": [
+      "Please do it again",
+      "Can you repeat that?"
+    ]
+  },
+  "no": {
+    "meaning": "Negative response or refusal",
+    "context": "daily",
+    "sentences": [
+      "No",
+      "I do not want that"
+    ]
+  },
+  "help": {
+    "meaning": "Request for assistance",
+    "context": "emergency",
+    "sentences": [
+      "I need help",
+      "Please help me"
+    ]
+  },
+  "yes": {
+    "meaning": "Positive response or agreement",
+    "context": "daily",
+    "sentences": [
+      "Yes",
+      "Okay"
+    ]
+  },
+  "hello": {
+    "meaning": "Greeting someone",
+    "context": "daily",
+    "sentences": [
+      "Hello",
+      "Hi"
+    ]
+  },
+  "busy": {
+    "meaning": "Indicating unavailability",
+    "context": "daily",
+    "sentences": [
+      "I am busy",
+      "I cannot talk right now"
+    ]
+  },
+  "happy": {
+    "meaning": "Expressing happiness",
+    "context": "daily",
+    "sentences": [
+      "I am happy",
+      "Feeling good"
+    ]
+  },
+  "i": {
+    "meaning": "Referring to oneself",
+    "context": "grammar",
+    "sentences": [
+      "I",
+      "Me"
+    ]
+  },
+  "you": {
+    "meaning": "Referring to another person",
+    "context": "grammar",
+    "sentences": [
+      "You"
+    ]
+  },
+  "bye": {
+    "meaning": "Ending a conversation",
+    "context": "daily",
+    "sentences": [
+      "Bye",
+      "Goodbye"
+    ]
+  }
+}
